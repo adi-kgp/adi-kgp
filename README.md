@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adi-kgp
-- 👀 I’m interested in Data Science, Machine Learning and Business Intelligence 
+- 👀 I’m looking for a job in Data Science, Machine Learning and Business Intelligence 
 - 📫 How to reach me You can reach me on john.claystone@gmail.com
 
 <!---
